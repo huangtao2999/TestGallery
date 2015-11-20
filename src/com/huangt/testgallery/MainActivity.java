@@ -16,7 +16,11 @@ import android.widget.BaseAdapter;
 import android.widget.Gallery;
 import android.widget.ImageView;
 import android.widget.Toast;
-
+/**
+ * ª≠¿»≤‚ ‘
+ * @author tao
+ *
+ */
 public class MainActivity extends Activity {
 
 	private ImageView iv;
